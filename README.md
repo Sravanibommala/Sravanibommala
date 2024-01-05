@@ -12,7 +12,4 @@ Once it collected the images and updating the model is done.
 Now you can find the folder with the name of "dataset" and it has subfolders of all the emotions and your images.
 Now you are ready to execute the EMP.py file.
 
-Tip:
 
-Don't forget to add the songs in the same folder.
-The more number of peoples images, more the accuracy.
