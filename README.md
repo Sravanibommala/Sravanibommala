@@ -10,6 +10,6 @@ To successfully execute this program we need dataset, so to creat the dataset, w
 By running above command the computer asks you to follow the orders and give expression to aquire your own dataset and it creates the .xml file.
 Once it collected the images and updating the model is done.
 Now you can find the folder with the name of "dataset" and it has subfolders of all the emotions and your images.
-Now you are ready to execute the EMP.py file.
+Now you are ready to execute the IMPBER.py file.
 
 
